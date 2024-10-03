@@ -1,0 +1,30 @@
+-quality assurance & quality control
+QA berfokus pada process-oriented techniques,tentang bagaimana software dibuat atau disampaiakan.
+-mematiskan bahwa kita melakukan hal yang benar,dengan cara yg benar
+-berfokus untuk membangun kualitas dan mencegah terjadinya cacat.
+-berurusan dengan proses.
+-dilakukan pada siklus pengembangan software.
+-QA adalah preventive process.
+
+QC adalah produtc0oriented techniques,sehingga QC berfokus pada final product dan memastikan babhwa standar terpenuhi ketika pengujuan produk.
+-mematiskan bahwa hasil dari apa yang telah kita lakukan sesuai ekspektasi.
+-berfokus untuk menguji dan mendeteksi cacat.
+-berurusan dengan produk
+-dilakukan pada siklus pengujian softwware.
+-QC adalah corretive process.
+
+-perbedaan utama
+QA 
+-prevent bug
+-plan
+-verify
+
+QC
+-detect bug
+-act
+-validate
+
+fault & failure
+ di evermos
+ -fault yang ditemukan di testing phase disebut "defect"
+ -fault yang ditemukan di production state disebut "bug"
