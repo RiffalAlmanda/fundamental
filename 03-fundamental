@@ -1,0 +1,10 @@
+test objectives
+-prevent defect kita mencegah terjadi nya defect/atau kerusakan jadi otomatis karana kita qa kita ngeprevent defect itu terjadi bug atau yg lainya sebagai nya kerusakan.
+evaluate produk itu hasilnya,
+
+-userstory itu apa yg di butuhkan user atau dsend atau code nya,code nya bagus atau tidak.
+
+verify requirement kita ngecek apakah suatu hasilnya itu udh sesuai requiment kebuthanya,gelas untuk minunm,bisa panas bisa dingin untuk minamal 250ml nah itu requirement,kita cek tuh setip gelas bisa panas gak,bisa dingin gak,terlalu panas bisa pecah terlalu dingin juga bisa pecah.
+
+validate test object
+-validate test object itu kita mastiin hasil test nya sesuai requirement,tujuan kita sebagai QA adalah membangun confidance,confidance itu adalah suatu kepercayaan bahwa aplikasi itu aman dari bug,
