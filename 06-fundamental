@@ -2,3 +2,6 @@ errors, defects, and failures
 - error adalah tindakan manusia yang menghahailkan hasil yang salah atau tidak di harapkan.
 -defects adalah cacat atau ketidaksempurnaan pada produk atau sistem perangkat lunak yang dapat menybabkan kegagalan memenuhi persyaratannya.
 -failure adalah ketidakmampuan produk atau sistem perangkat lunak untuk menjalankan fungsi yang dimaksudakan
+
+defect mempunyai root cause,yang merupakan alasan mendasarmengapa cacat itu terjadi.
+the effect adalah akibat dari kecacatan.
