@@ -1,0 +1,23 @@
+seven testing principle     
+-testing dapat menunjukan adanya cacat,tidak dapat membuktikan tidak adanya cacat.
+testing membantu dalam menemukan cacat yang belum ditemukan.
+
+Early Testing 
+-Mulai testing sesegera mungkin. Menemukan kerusakan sejak dini dapat menghemat banyak uang daripada menemukanya nanti.
+
+testing- Context Dependet
+-testing bergantung pada konteks. situs web yang berbeda diuji secara berbeda.
+misalnya situs perbankan diuji secara berbeda dari situs belanja.
+
+Exhaustive Testing is Impossible
+-Mustahil untuk menguji semua kemungkinan kombinasi input data dan skenario. cara pengujian yang lebih cerdas harus diadosi.
+
+defect clustering
+- distribusi bug yang sama di seluruh modul tidak di mungkinkan. cacat dapak dikelompokkan dalam potongan kecil kode/modul
+
+Pesticide Paradox
+-mengeksekusi kasus pengujian yang sama berulang kali tidak akan mebantu mengindentifikasi lebih banyak bug. Tinjau secara teratur dan modifikasi jika diperlukan perubahan
+
+Absense-of-errors Faliacy
+-menemukan dan memperabaiki banyak bug tidak akan membantu apabila gagal memenuhi kebutuhan pengguna,itiu sama saja tidak berguna
+
